@@ -1,0 +1,108 @@
+body {
+    background-color: #d0e4fe;
+}
+#face {
+	background-color: 000066;
+    color: white;
+    height: 50px;
+    width: 720px;
+    padding: 10px;
+    border: 5px solid navy;
+    margin: 16px 0px 10px 25px;
+    text-align: center;
+	
+   <!--	background-color:ff6600
+
+    height: 50px;
+    height: 50px;
+    width: 700px;
+    padding: 10px;
+    border: 5px solid navy;
+    margin: 16px 0px 16px 32px;	
+    -->
+}
+
+
+#container {
+	height: 1000px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+    	
+    text-align: center;
+	background-color: #ffffff;
+}
+#content {
+	padding: 10px;
+}
+
+#news {
+	width: 140px;
+    padding: ;
+    border: 5px solid navy;
+    margin: 2px;
+    float: left;
+    background-color: #D0D0D0;
+}
+#chat {
+	float: none;
+	width: 590px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid navy;
+    margin: 2px;
+    float: right;   
+    background-color: #B8B8B8;
+}
+ <!--width: 100px height: 300px;-->
+#msg {
+    width: 590px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid navy;
+    margin: 2px;
+    float: right;   
+    background-color: #B8B8B8;
+	
+	<!--width: 100px; height: 300px;
+	float: none;-->
+}
+#nav {
+    width: 120px;
+    padding: ;
+    border: 5px solid navy;
+    margin: 2px;
+    float: left;
+    background-color: #D0D0D0;
+	
+	<!--width: 80px;
+    padding: 10px;
+    border: 5px solid navy;
+    margin: 2px;
+    float: left;
+    -->
+}
+#nav .selected {
+    font-weight: bold;
+} 
+#nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: CC3399;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+Ts3 #d0e4fe;
